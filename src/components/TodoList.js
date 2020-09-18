@@ -48,7 +48,7 @@ export function TodoList() {
   return (
     <div>
       <Divider orientation="left">Todo App</Divider>
-      {console.log(data)}
+
       <List
         size="large"
         header={

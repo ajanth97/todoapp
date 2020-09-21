@@ -1,3 +1,3 @@
 # Todo App
 
-### Introduction
+## Introduction
